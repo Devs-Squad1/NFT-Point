@@ -1,0 +1,36 @@
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner-img img {
+        height: 50vh;
+    }
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+    .sale-second-img img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .banner-img img {
+        height: 40vh;
+    }
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+
+ 
